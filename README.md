@@ -74,17 +74,6 @@ Especialização em Inteligência Artificial Aplicada pela **UFPR**.
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=danieldevbel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=danieldevbel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
-</div>
-
----
-
 <div align="center">
 
 **Tem um problema de visão computacional, ou quer IA rodando dentro de casa?**
