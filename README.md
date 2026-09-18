@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Daniel%20Junior&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Engenheiro%20de%20IA&descSize=18&descAlignY=52" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=140&section=header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Reconhecimento+facial+1%3AN+em+produ%C3%A7%C3%A3o;Infer%C3%AAncia+local+de+LLMs+em+GPU+pr%C3%B3pria;Automa%C3%A7%C3%A3o+que+integra+sistemas+legados" />
+# Daniel Junior
+
+### Engenheiro de IA
+
+**Visão computacional · Inferência local de modelos · Automação de processos**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldevbel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldevbel/)
 [![OptimiAI](https://img.shields.io/badge/OptimiAI-optimiai.com.br-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://optimiai.com.br)
