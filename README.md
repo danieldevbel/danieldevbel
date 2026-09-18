@@ -28,6 +28,19 @@ Especialização em Inteligência Artificial Aplicada pela **UFPR**.
 
 ---
 
+## Projetos
+
+| Projeto | O que resolve | Destaque |
+|---|---|---|
+| [**stream-vision**](https://github.com/danieldevbel/stream-vision) | Analítico de vídeo em tempo real sobre CFTV: motion gating, detecção, reconhecimento facial e emissão de eventos, com privacidade na arquitetura e não como remendo | 75% das inferências evitadas pelo gating de movimento; o pipeline inteiro roda em CI sem GPU, sem modelo baixado e sem câmera |
+| [**docs-rag**](https://github.com/danieldevbel/docs-rag) | RAG sobre normas e documentos administrativos: chunking que preserva o artigo inteiro, busca híbrida BM25 com embeddings e verificação obrigatória de citação | Recall@5 de 100% e MRR de 0,911 no conjunto dourado, com limiares cobrados no CI |
+| [**data-ingest**](https://github.com/danieldevbel/data-ingest) | Pipeline de ingestão idempotente com contrato de dados, checks de qualidade por severidade e manifesto de execução para linhagem | 73 testes sem dependência externa; manifesto com watermark, duplicatas e taxa de rejeição |
+| [**ai-project-template**](https://github.com/danieldevbel/ai-project-template) | Template para projeto de IA em Python nascer em padrão de produção, e não como notebook experimental | uv, pydantic-settings, structlog, typer, ruff, mypy --strict, pytest e CI em 3.11 e 3.12 |
+
+**Análise e modelagem:** [CarPricePredict](https://github.com/danieldevbel/CarPricePredict), previsão de preços de veículos com R² de 0,9797, e [analise_salarios_ti](https://github.com/danieldevbel/analise_salarios_ti), análise de equidade salarial em Python.
+
+---
+
 ## No que eu trabalho
 
 | Área | O que faço |
@@ -66,15 +79,6 @@ Especialização em Inteligência Artificial Aplicada pela **UFPR**.
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 
 </div>
-
----
-
-## Projetos
-
-| Projeto | Descrição | Resultado |
-|---|---|---|
-| [**CarPricePredict**](https://github.com/danieldevbel/CarPricePredict) | Pipeline completo de previsão de preços de veículos no Brasil, da coleta à modelagem | R² de 0,9797 com Random Forest e XGBoost |
-| [**analise_salarios_ti**](https://github.com/danieldevbel/analise_salarios_ti) | Análise de equidade salarial em empresa de tecnologia, por gênero, senioridade e experiência | Pipeline de análise e visualização em Python |
 
 ---
 
