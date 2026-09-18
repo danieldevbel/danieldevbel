@@ -1,11 +1,11 @@
 <div align="center">
 
-# Daniel Junior
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=180&section=header&text=Daniel%20Junior&fontSize=48&fontColor=ffffff&fontAlignY=32&desc=Engenheiro%20de%20IA&descSize=18&descAlignY=52" width="100%" />
 
-**Engenheiro de IA** · Visão computacional, inferência local de modelos e automação de processos
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&height=45&lines=Reconhecimento+facial+1%3AN+em+produ%C3%A7%C3%A3o;Infer%C3%AAncia+local+de+LLMs+em+GPU+pr%C3%B3pria;Automa%C3%A7%C3%A3o+que+integra+sistemas+legados" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-danieldevbel-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldevbel/)
-[![OptimiAI](https://img.shields.io/badge/OptimiAI-optimiai.com.br-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=white)](https://optimiai.com.br)
+[![OptimiAI](https://img.shields.io/badge/OptimiAI-optimiai.com.br-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://optimiai.com.br)
 [![Email](https://img.shields.io/badge/Email-danieljrdevbel@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieljrdevbel@gmail.com)
 
 </div>
@@ -37,31 +37,31 @@ Especialização em Inteligência Artificial Aplicada pela **UFPR**.
 
 ## Stack
 
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+<div align="center">
 
 **IA e dados**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX%20Runtime-005CED?style=flat-square&logo=onnx&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,postgres&theme=dark" />
 
-**Infra e ferramentas**
+**Backend e infra**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20+%20pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+<img src="https://skillicons.dev/icons?i=fastapi,docker,linux,nginx,redis,grafana,prometheus,git&theme=dark" />
+
+**Frontend e mobile**
+
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,flutter,dart,cs,dotnet&theme=dark" />
+
+</div>
+
+---
+
+## Contribuições
+
+<div align="center">
+
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+
+</div>
 
 ---
 
@@ -79,5 +79,7 @@ Especialização em Inteligência Artificial Aplicada pela **UFPR**.
 **Tem um problema de visão computacional, ou quer IA rodando dentro de casa?**
 
 [![Fale comigo](https://img.shields.io/badge/Fale%20comigo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danieldevbel/)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=120&section=footer" width="100%" />
 
 </div>
